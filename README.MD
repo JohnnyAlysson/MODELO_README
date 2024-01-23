@@ -54,7 +54,7 @@ list what technologies i have used
 <h2 id=author> Author </h2> <!--Padrão não muda-->
 
  <a href="https://johnnyalysson.github.io/portifolio-web/">
- <img style=" src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
+ <img  style="border-radius: 50%; src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
  <br />
 
     Created with ❤️ by Johnny Alysson 👋🏽 fell free to reach out!
