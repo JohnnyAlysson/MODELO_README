@@ -38,33 +38,31 @@ Explain in details how to install and run the aplication wiht pictures and code
 
 <h2 id=status> Status </h2>
 
-> Em andamento
+> status of the aplication
 
-<h2 id=demo> Demonstração </h2>
+<h2 id=demo> Demo </h2>
 
-![Gif of the aplication](/aplicacao_com_python/demoprimeiraaplicao-ezgif.com-video-to-gif-converter.gif "online chat")
+put screenshots and videos of the aplication
 
-<h2 id=tecnologias> Tecnologias </h2>
-Nessa aplicação foram utilizadas as seguintes tecnologias:
+<h2 id=techs> Techs </h2>
 
-1. Python    
-2. Biblioteca Flet para python    
-3. Host da Fly    
-4. Dockerfile
+list what technologies i have used
 
-<h2 id=autor> Autor </h2>
+1. tech    
+2. tech   
+
+<h2 id=author> Author </h2> <!--Padrão não muda-->
 
  <a href="https://johnnyalysson.github.io/portifolio-web/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
  <br />
-
 
     Feito com ❤️ por Johnny Alysson 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnyalysson)](https://www.linkedin.com/in/johnnyalysson) 
 [![Gmail Badge](https://img.shields.io/badge/-johnalysson30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnalysson30@gmail.com)](mailto:johnalysson30@gmail.com)
 
-<h2 id=licenca> Licença </h2>
+<h2 id=license> License </h2>
 
 MIT License
 
