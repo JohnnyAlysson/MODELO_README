@@ -54,11 +54,10 @@ list what technologies i have used
 <h2 id=author> Author </h2> <!--Padrão não muda-->
 
  <a href="https://johnnyalysson.github.io/portifolio-web/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
+ <img" src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
  <br />
 
-    Feito com ❤️ por Johnny Alysson 👋🏽 Entre em contato!
-
+    Created with ❤️ by Johnny Alysson 👋🏽 fell free to reach out!
 [![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnyalysson)](https://www.linkedin.com/in/johnnyalysson) 
 [![Gmail Badge](https://img.shields.io/badge/-johnalysson30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnalysson30@gmail.com)](mailto:johnalysson30@gmail.com)
 
