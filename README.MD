@@ -1,51 +1,40 @@
 
-# Aplicação chat online com python 	:emoji:
+# <Nome da aplicação> 	:emoji:
 
 ## Tabela de conteúdos
 
 <p align="left">
 
- <a href ="#sobre"> > Sobre</a>
+ <a href ="#about"> > About</a>
 
- <a href ="#logica"> > Lógica</a>
+ <a href ="#logic"> > Logic</a>
  
- <a href ="#comousar"> > Como Usar</a>
+ <a href ="#howtouse"> > How to use</a>
 
  <a href ="#status"> > Status</a>
 
- <a href = "#demo"> > Demonstração </a>
+ <a href = "#demo"> > Demo </a>
 
- <a href = "#tecnologias"> > Tecnologias </a>
+ <a href = "#techs"> > Techs </a>
 
- <a href = "#autor"> > Autor</a>
+ <a href = "#author"> > Author</a>
 
- <a href = "#licenca"> > Licença </a>
+ <a href = "#license"> > License </a>
 
-<!-- <p id=sobre></p>
+<h2 id=about> about </h2>    
 
-## Sobre -->
-<h2 id=sobre> Sobre </h2>    
-
-The goal of this portfolio project is to create a practical program for companies and others to appreciate, showcasing my programming skills.
-The project involves a program that analyzes a database, calculates key information, and sends an email with a comprehensive report.
-This project stems from my studies in the field of programming and includes my notes and thoughts as I studied and developed the program.
+Brief explanation about the aplication try to answer the WHY, WHAT, and HOW 
+AND MAIN CHALENGES
 
 
-<h2 id=logica> Lógica de Programação </h2>
+<h2 id=logic> Programming logic: </h2>
 
-1. Importar bibliotecas   
-2. Criar função do Flet
-3. criar interface dentro da função
-4. criar conexao
-5. Realizar deploy em host
+1. Either create a list of steps of the program's logic or;
+2. put the main functions (backlog)
 
-<h2 id=comousar> Como usar </h2>
-Para testar a aplicação basta clicar no link acima onde é possível se comunicar com outros usuários.
+<h2 id=howtouse> How to use </h2>
 
-Se quiser utilizar na sua própria máquina será necessario instalar a biblioteca Flet com o comando:
-
-<code>pip install flet</code>
-
+Explain in details how to install and run the aplication wiht pictures and code
 
 <h2 id=status> Status </h2>
 
