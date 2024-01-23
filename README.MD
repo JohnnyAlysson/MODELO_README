@@ -1,16 +1,5 @@
-<!--  
- _   _      _ _                  
-| | | | ___| | | ___             
-| |_| |/ _ \ | |/ _ \            
-|  _  |  __/ | | (_) |           
-|_| |_|\___|_|_|\___/_     _   _ 
-\ \      / /__  _ __| | __| | | |
- \ \ /\ / / _ \| '__| |/ _` | | |
-  \ V  V / (_) | |  | | (_| | |_|
-   \_/\_/ \___/|_|  |_|\__,_| (_)  -->
 
-
-# Aplicação chat online com python 	:speech_balloon:
+# Aplicação chat online com python 	:emoji:
 
 ## Tabela de conteúdos
 
