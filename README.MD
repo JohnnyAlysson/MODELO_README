@@ -1,7 +1,7 @@
 
 # <Nome da aplicação> 	:emoji:
 
-## Tabela de conteúdos
+## table of contents
 
 <p align="left">
 
